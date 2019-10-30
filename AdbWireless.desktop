@@ -1,6 +1,0 @@
-[Desktop Entry]
-Type=Application
-Terminal=false
-Name=Adb Wireless
-Exec=/home/kmos/bash/auto.sh
-Icon=/home/kmos/bashicon.png
