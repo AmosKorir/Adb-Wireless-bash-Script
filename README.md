@@ -24,4 +24,13 @@ That will create a destop entry for wireless adb.
 
 When you run adb it prompt for ip address then it will connect to phone wirelessly.
 
+
+
+
+<img src="https://github.com/skyways/Adb-Wireless-bash-Script/blob/master/Screenshot%20from%202019-10-31%2000-08-36.png"/>
+
+
+
+
+
 **There is room for improvement just contribute**
